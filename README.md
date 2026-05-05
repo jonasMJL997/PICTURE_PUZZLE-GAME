@@ -91,8 +91,7 @@ PICTURE_PUZZLE-GAME/
 
 ## 👤 Author
 
-**Jonas Majila** — AI Software Engineer & JavaScript Developer
-
+**Jonas Majila** — AI Engineer 
 [![GitHub](https://img.shields.io/badge/GitHub-1A2E4A?style=flat-square&logo=github&logoColor=white)](https://github.com/jonasMJL997)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-majila4336a2259)
 
